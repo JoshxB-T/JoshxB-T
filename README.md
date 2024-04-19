@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is **Josh Barrera-Torrez**, and I'm a student pursuing a Bachelor's degree in **Computer Science** with a major in **Computer Systems** and a minor in **Mathematics**.
+My name is **Josh Barrera-Torrez**, and I'm a student pursuing a Bachelor's degree in **Computer Science** with a concentration in **Computer Systems** and a minor in **Mathematics**.
 
 ## About Me
 - 🧮 **Passion for Mathematics**: I'm particularly passionate about calculus and would love to implement calculus topics into a personal project someday.
